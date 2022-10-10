@@ -3,6 +3,7 @@
 ## Run application
 
 "make" to compile client.cpp, common.cpp, FIFORequestChannel.cpp, server.cpp
+Recommended to run this on linux server or ubuntu to avoid system calls error
 
 ## FIFORequestChannel class (FIFORequestChannel.cpp/.h)
 
